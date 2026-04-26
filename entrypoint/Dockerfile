@@ -1,2 +1,2 @@
-FROM almalinux:1.29.7
+FROM almalinux:9
 CMD ["ping","google.com"]
